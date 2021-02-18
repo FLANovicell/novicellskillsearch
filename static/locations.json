@@ -1,0 +1,12 @@
+{
+  "locations": [
+    { "location": "Aarhus" },
+    { "location": "København" },
+    { "location": "Ebletoft" },
+    { "location": "Barcelona" },
+    { "location": "Oslo" },
+    { "location": "London" },
+    { "location": "Amsterdam" },
+    { "location": "Madrid" }
+  ]
+}

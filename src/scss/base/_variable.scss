@@ -1,0 +1,24 @@
+:root {
+  --color-primary: #c80046;
+  --color-secondary: #65022b;
+  --color-green: #75bc7f;
+  --color-gray-text: #909090;
+  --color-black: #232323;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  @media (min-width: 576px) {
+    width: 540px;
+  }
+  @media (min-width: 768px) {
+    width: 720px;
+  }
+  @media (min-width: 992px) {
+    width: 960px;
+  }
+  @media (min-width: 1200px) {
+    width: 1140px;
+  }
+}

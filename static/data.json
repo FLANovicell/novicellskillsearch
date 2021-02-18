@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Franciska Lund Agenskov",
+      "email": "frl@novicell.dk",
+      "location": "Aarhus",
+      "team": "Sitecore",
+      "img": "https://www.novicell.dk/media/70222/franciska.jpg?center=0.5,0.5&mode=crop&filter=greyscale&quality=75&width=555&height=555",
+      "techList": [{ "react": 4, "vuejs": 3, "umbraco": 2 }]
+    },
+    {
+      "id": 2,
+      "name": "Ao Li",
+      "email": "ali@novicell.dk",
+      "location": "London",
+      "team": "Sitecore",
+      "img": "https://www.novicell.dk/media/63644/aoli.jpg?center=0.5,0.5&mode=crop&filter=greyscale&quality=75&width=555&height=555",
+      "techList": [{ "react": 4, "vuejs": 3, "umbraco": 2 }]
+    },
+    {
+      "id": 3,
+      "name": "Emil Skytte Andersen",
+      "email": "ean@novicell.dk",
+      "location": "København",
+      "team": "Sitecore",
+      "img": "https://www.novicell.dk/media/59098/emil.jpg?center=0.5,0.5&mode=crop&filter=greyscale&quality=75&width=555&height=555",
+      "techList": [{ "react": 4, "vuejs": 3, "umbraco": 2 }]
+    },
+    {
+      "id": 4,
+      "name": "Jeanette Friis ",
+      "email": "jfr@novicell.dk",
+      "location": "Ebletoft",
+      "team": "Sitecore",
+      "img": "https://www.novicell.dk/media/63594/ebeltoft-jeanette-friis-1.jpg?center=0.5,0.5&mode=crop&filter=greyscale&quality=75&width=555&height=555",
+      "techList": [{ "react": 4, "vuejs": 3, "umbraco": 2 }]
+    },
+    {
+      "id": 5,
+      "name": "Christian Tilsted",
+      "email": "cli@novicell.dk",
+      "location": "Barcelona",
+      "team": "Sitecore",
+      "img": "https://www.novicell.dk/media/63246/christian-tilsted-ebeltoft.jpg?center=0.5,0.5&mode=crop&filter=greyscale&quality=75&width=555&height=555",
+      "techList": [{ "react": 4, "vuejs": 3, "umbraco": 2 }]
+    }
+  ]
+}

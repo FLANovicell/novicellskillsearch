@@ -31,7 +31,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: #f2f2f2 0% r0% no-repeat padding-box;
+  background: #f2f2f2 0% 0% no-repeat padding-box;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    { "tech": "React" },
+    { "tech": "Vuejs" },
+    { "tech": "Umbraco" },
+    {
+      "tech": "Raptor"
+    },
+    { "tech": "Elatic Search" },
+    { "tech": "Mongo DB" },
+    { "tech": "Headless" },
+    { "tech": "Sitecore" },
+    { "tech": "Drupal" }
+  ]
+}
